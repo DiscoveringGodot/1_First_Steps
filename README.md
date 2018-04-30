@@ -38,3 +38,12 @@ Pick your download method
 
 #### After watching (learning outcomes)…
 You'll have installed the best version of Godot for you onto your PC!
+
+### 5 Hello Godot!
+#### In this video (objectives)…
+Start a New Project
+Print "Hello World!" to the console
+concatenate a string variable
+
+#### After watching (learning outcomes)…
+You'll be able to start a new project, create a script and print informatio to the console.
