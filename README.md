@@ -30,3 +30,11 @@ Introduce yourself!
 
 #### After watching (learning outcomes)…
 Find community resources and learning support
+
+### 3 Installing Godot on a PC
+#### In this video (objectives)…
+Figure out which version of Godot you want
+Pick your download method
+
+#### After watching (learning outcomes)…
+You'll have installed the best version of Godot for you onto your PC!
