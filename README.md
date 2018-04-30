@@ -39,6 +39,14 @@ Pick your download method
 #### After watching (learning outcomes)…
 You'll have installed the best version of Godot for you onto your PC!
 
+### 3 Installing Godot on a Mac
+#### In this video (objectives)…
+Figure out which version of Godot you want
+Pick your download method
+
+#### After watching (learning outcomes)…
+You'll have installed the best version of Godot for you onto your Mac!
+
 ### 5 Hello Godot!
 #### In this video (objectives)…
 Start a New Project
