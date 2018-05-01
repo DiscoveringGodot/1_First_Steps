@@ -20,8 +20,8 @@ Here are the lectures of the course for this section...
 ### 1 Why Godot?
 #### In this video (objectives)…
 1 Who we are
-1 Why we picked Godot
-1 Who is this course for
+2 Why we picked Godot
+3 Who is this course for
 
 #### After watching (learning outcomes)…
 Decide if this course is for you!
@@ -37,7 +37,7 @@ Find community resources and learning support
 ### 3 Installing Godot on a PC
 #### In this video (objectives)…
 1 Figure out which version of Godot you want
-1 Pick your download method
+2 Pick your download method
 
 #### After watching (learning outcomes)…
 You'll have installed the best version of Godot for you onto your PC!
@@ -45,7 +45,7 @@ You'll have installed the best version of Godot for you onto your PC!
 ### 3 Installing Godot on a Mac
 #### In this video (objectives)…
 1 Figure out which version of Godot you want
-1 Pick your download method
+2 Pick your download method
 
 #### After watching (learning outcomes)…
 You'll have installed the best version of Godot for you onto your Mac!
@@ -53,8 +53,8 @@ You'll have installed the best version of Godot for you onto your Mac!
 ### 5 Hello Godot!
 #### In this video (objectives)…
 1 Start a New Project
-1 Print "Hello World!" to the console
-1 concatenate a string variable
+2 Print "Hello World!" to the console
+3 concatenate a string variable
 
 #### After watching (learning outcomes)…
 You'll be able to start a new project, create a script and print informatio to the console.
