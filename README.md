@@ -58,3 +58,11 @@ You'll have installed the best version of Godot for you onto your Mac!
 
 #### After watching (learning outcomes)…
 You'll be able to start a new project, create a script and print informatio to the console.
+
+### 6 Section 1 Wrap Up
+#### In this video (objectives)…
+A quick video on how to keep your momentum going in this course
+
+#### After watching (learning outcomes)…
+Maximize your productivity while you learn!
+
