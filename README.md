@@ -1,6 +1,6 @@
 # Discovering Godot - The Game Engine You've Been Waiting For
 ## Section 1 - First Steps
-This is GameDev.tv's guide to the free and open source Godot game engine.  Learn the free to use, free to modify, free to create engine with one of the most successful online game develeopment educational groups out there.
+This is GameDev.tv's guide to the free and open source Godot game engine.  Learn the free to use, free to modify, free to create engine with one of the most successful online game development educational groups out there.
 
 You're welcome to download, fork or do whatever else legal with all the files! The real value is in our huge, high-quality online tutorials that accompany this repo.
 
@@ -42,7 +42,7 @@ Find community resources and learning support
 #### After watching (learning outcomes)…
 You'll have installed the best version of Godot for you onto your PC!
 
-### 3 Installing Godot on a Mac
+### 4 Installing Godot on a Mac
 #### In this video (objectives)…
 1 Figure out which version of Godot you want
 2 Pick your download method
@@ -57,7 +57,7 @@ You'll have installed the best version of Godot for you onto your Mac!
 3 concatenate a string variable
 
 #### After watching (learning outcomes)…
-You'll be able to start a new project, create a script and print informatio to the console.
+You'll be able to start a new project, create a script and print information to the console.
 
 ### 6 Section 1 Wrap Up
 #### In this video (objectives)…
@@ -65,4 +65,3 @@ A quick video on how to keep your momentum going in this course
 
 #### After watching (learning outcomes)…
 Maximize your productivity while you learn!
-
